@@ -5,3 +5,10 @@ export const plantSeeds = (yearsPlantingPlan) =>
         ["Asparagus", "Wheat", "Soybean", "Corn"],
         ["Asparagus", "Soybean", "Potato", "Wheat"]
     ]
+
+    for (const foodTypes of plantSeeds) {
+        if (foodTypes.type === plantSeeds.type) {
+        }
+        plantSeeds++;
+        }
+    
